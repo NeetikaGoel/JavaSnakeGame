@@ -58,7 +58,10 @@ To play the Snake Game 2D:
 
 ## Screenshots
 
-_Insert screenshots or animated GIFs showcasing the gameplay._
+![image](https://github.com/user-attachments/assets/93dcd4c6-c2e9-4927-800e-73ba55b5f704)
+![image](https://github.com/user-attachments/assets/87223c22-40ea-470a-ba71-86dd3e2c5b96)
+![image](https://github.com/user-attachments/assets/de8b46c8-ee49-4d7a-91ea-3479a78e8b86)
+![image](https://github.com/user-attachments/assets/614424aa-64a5-4506-b308-65627fe887a3)
 
 ## Contributing
 
